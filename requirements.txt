@@ -1,0 +1,8 @@
+wmi
+functools
+json
+logging
+platform
+socket
+time
+traceback
