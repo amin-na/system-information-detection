@@ -121,15 +121,6 @@ def log_error(func, error, error_type):
 
 
 @log_errors
-def example_function(x, y):
-    return x / y
-
-
-# Example usage
-print(example_function(1, 0))
-
-
-@log_errors
 def clear_terminal():
     """
     Clears the terminal screen.
